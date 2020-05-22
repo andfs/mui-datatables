@@ -54,7 +54,7 @@ const options = {
 
 ```
 
-Or customize columns:
+Or customize columns: 
 
 ```js
 
